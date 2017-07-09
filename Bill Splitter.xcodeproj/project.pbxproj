@@ -58,12 +58,9 @@
 		D17C3E0C1F12710F00CF9BD4 /* Bill Splitter */ = {
 			isa = PBXGroup;
 			children = (
-				D17C3E101F12710F00CF9BD4 /* AppDelegate.h */,
-				D17C3E111F12710F00CF9BD4 /* AppDelegate.m */,
 				D17C3E131F12710F00CF9BD4 /* ViewController.h */,
 				D17C3E141F12710F00CF9BD4 /* ViewController.m */,
 				D17C3E161F12710F00CF9BD4 /* Main.storyboard */,
-				D17C3E191F12710F00CF9BD4 /* Assets.xcassets */,
 				D17C3E1B1F12710F00CF9BD4 /* LaunchScreen.storyboard */,
 				D17C3E1E1F12710F00CF9BD4 /* Info.plist */,
 				D17C3E0D1F12710F00CF9BD4 /* Supporting Files */,
@@ -74,6 +71,9 @@
 		D17C3E0D1F12710F00CF9BD4 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				D17C3E101F12710F00CF9BD4 /* AppDelegate.h */,
+				D17C3E111F12710F00CF9BD4 /* AppDelegate.m */,
+				D17C3E191F12710F00CF9BD4 /* Assets.xcassets */,
 				D17C3E0E1F12710F00CF9BD4 /* main.m */,
 			);
 			name = "Supporting Files";
